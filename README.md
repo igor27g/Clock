@@ -12,7 +12,7 @@
 My project is a clock. Reason why I did it, it is a developing my skills in HTML, CSS and JavaScript.
 
 ## Screenshots
-(./img/screenshot.png)
+(../img/screenshot.png)
 
 ## Technologies
 * HTML5 
